@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1306-jump-game-iii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1306-jump-game-iii) |
 | [2540-minimum-common-value](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2540-minimum-common-value) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
