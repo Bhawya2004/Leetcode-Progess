@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0033-search-in-rotated-sorted-array) |
 | [1306-jump-game-iii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1306-jump-game-iii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0001-two-sum) |
 | [2540-minimum-common-value](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3120-count-the-number-of-special-characters-i) |
