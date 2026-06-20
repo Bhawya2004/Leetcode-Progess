@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0219-contains-duplicate-ii) |
 | [1306-jump-game-iii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1306-jump-game-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0219-contains-duplicate-ii) |
 | [2540-minimum-common-value](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
