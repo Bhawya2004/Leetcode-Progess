@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0881-boats-to-save-people) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1732-find-the-highest-altitude) |
