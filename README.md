@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0229-majority-element-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0441-arranging-coins) |
 | [0875-koko-eating-bananas](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1004-max-consecutive-ones-iii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1480-running-sum-of-1d-array) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting Sort
