@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0238-product-of-array-except-self) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0485-max-consecutive-ones) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0229-majority-element-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0881-boats-to-save-people) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0561-array-partition) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1833-maximum-ice-cream-bars) |
