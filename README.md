@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0238-product-of-array-except-self) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0219-contains-duplicate-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1189-maximum-number-of-balloons) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0561-array-partition) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0561-array-partition) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1833-maximum-ice-cream-bars) |
@@ -140,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0766-toeplitz-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
