@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0219-contains-duplicate-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -189,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
