@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1518-water-bottles) |
 | [3612-process-string-with-special-operations-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0509-fibonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1227-airplane-seat-assignment-probability) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1518-water-bottles](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1518-water-bottles) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
 |  |
