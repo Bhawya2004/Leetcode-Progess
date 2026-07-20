@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1004-max-consecutive-ones-iii) |
+| [1260-shift-2d-grid](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1306-jump-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1732-find-the-highest-altitude) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1518-water-bottles) |
 | [3612-process-string-with-special-operations-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0766-toeplitz-matrix) |
+| [1260-shift-2d-grid](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
