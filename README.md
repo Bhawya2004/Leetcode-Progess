@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0628-maximum-product-of-three-numbers) |
 | [0766-toeplitz-matrix](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0881-boats-to-save-people) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1833-maximum-ice-cream-bars) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0628-maximum-product-of-three-numbers) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1227-airplane-seat-assignment-probability) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1518-water-bottles) |
