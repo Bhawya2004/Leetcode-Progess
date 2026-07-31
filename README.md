@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0485-max-consecutive-ones) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0441-arranging-coins) |
 | [0875-koko-eating-bananas](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1004-max-consecutive-ones-iii) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0268-missing-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0561-array-partition) |
@@ -146,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
