@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0561-array-partition) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2404-most-frequent-even-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2404-most-frequent-even-element) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0881-boats-to-save-people) |
 | [2540-minimum-common-value](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2540-minimum-common-value) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0441-arranging-coins) |
 | [0875-koko-eating-bananas](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1004-max-consecutive-ones-iii) |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0628-maximum-product-of-three-numbers) |
