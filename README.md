@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1833-maximum-ice-cream-bars) |
+| [1929-concatenation-of-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2404-most-frequent-even-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2404-most-frequent-even-element) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1518-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1929-concatenation-of-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
