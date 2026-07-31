@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2404-most-frequent-even-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3612-process-string-with-special-operations-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
