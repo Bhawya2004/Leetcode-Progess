@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0628-maximum-product-of-three-numbers) |
 | [0766-toeplitz-matrix](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0766-toeplitz-matrix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0877-stone-game) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0486-predict-the-winner](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1227-airplane-seat-assignment-probability) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0877-stone-game) |
 ## Probability and Statistics
 |  |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
