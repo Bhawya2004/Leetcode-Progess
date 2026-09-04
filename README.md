@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0316-remove-duplicate-letters) |
+| [0412-fizz-buzz](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1920-build-array-from-permutation) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0486-predict-the-winner) |
