@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0486-predict-the-winner) |
