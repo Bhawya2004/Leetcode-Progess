@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
