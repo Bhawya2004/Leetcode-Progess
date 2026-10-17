@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3875-construct-uniform-parity-array-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
