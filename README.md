@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0628-maximum-product-of-three-numbers) |
+| [0697-degree-of-an-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0697-degree-of-an-array) |
 | [0766-toeplitz-matrix](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0877-stone-game) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0349-intersection-of-two-arrays) |
+| [0697-degree-of-an-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0697-degree-of-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2404-most-frequent-even-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/2404-most-frequent-even-element) |
