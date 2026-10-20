@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0217-contains-duplicate) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0876-middle-of-the-linked-list) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Bhawya2004/Leetcode-Progess/tree/master/0292-nim-game) |
